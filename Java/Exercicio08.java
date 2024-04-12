@@ -2,7 +2,7 @@ package Java;
 
 import java.util.Scanner;
 
-public class Exercicio07 {
+public class Exercicio08 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Digite a Distancia a ser Percorrida: ");
